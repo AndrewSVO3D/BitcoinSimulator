@@ -1,1 +1,1 @@
-# CS111
+# Bitcoin Simulator
