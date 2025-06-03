@@ -1,0 +1,12 @@
+
+BUY | Purchasing of 1.0BTC @ Fri, 28 May 2021 11:48:39
+
+BUY | Purchasing of 1.0BTC @ Fri, 28 May 2021 11:48:42
+
+BUY | Purchasing of 1.0BTC @ Fri, 28 May 2021 11:48:43
+
+SELL | Selling of 0.2BTC @ Fri, 28 May 2021 11:48:49
+
+SELL | Selling of 0.5BTC @ Fri, 28 May 2021 11:48:51
+
+SELL | Selling of 0.3BTC @ Fri, 28 May 2021 11:48:56
